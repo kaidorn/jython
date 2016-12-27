@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kaidorn/jython.svg?branch=master)](https://travis-ci.org/kaidorn/jython)
+
 Jython: Python for the Java Platform
 
 Welcome to Jython 2.7.1 beta 3!
